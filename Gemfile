@@ -4,4 +4,4 @@ source 'https://rubygems.org'
 gemspec
 gem "mutex_m"
 gem "bigdecimal"
-gem "motion-require", git: 'git@github.com:ljorgens/motion-require.git'
+gem "motion-require", "0.2.1", git: 'git@github.com:ljorgens/motion-require.git'
