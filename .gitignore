@@ -16,3 +16,5 @@ nbproject
 .eprj
 pkg/*
 Gemfile.lock
+.idea
+build-log

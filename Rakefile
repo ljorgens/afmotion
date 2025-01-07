@@ -14,5 +14,5 @@ require 'webstub'
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'AFMotion'
-  app.deployment_target = "10.0"
+  app.deployment_target = "12.4"
 end
